@@ -13,3 +13,8 @@ Dans le dataset, mais du coup il manque un bout de phrase, Pourquoi ?
 D'ailleurs c'est le texte de Ford et non pas de Walter comme il est supposé dans le dataset.
 
 https://www.debates.org/voter-education/debate-transcripts/october-22-1976-debate-transcript/
+
+
+Note après rdv:
+10/03/2023
+On a parlé des différentes exceptions dans le dataset(multiple phrases, manque de ponctuation...).
