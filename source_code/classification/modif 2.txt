@@ -1,0 +1,7 @@
+hidden_dropout_prob = 0.5,
+attention_probs_dropout_prob = 0.5
+
+ajout du dropout pour eviter l'overfit ?
+
+TODO: ajout de plus de données
+TODO: passer en binary_crossentropy car on a plus que deux classes vu qu'on a jeté Question

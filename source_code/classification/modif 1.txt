@@ -1,0 +1,16 @@
+modification entre la premiere run et la deuxieme:
+-le Type Question a été enlevé car trop peu signifiante dans le dataset (0.2% dans les 66 sur tout le dataset de 33k valeurs)
+
+
+futur modif ? -> changement du learning rate
+		  -> ajouter du dropout pour eviter un overfitting
+		  -> faire le training sur un jeu de données plus grand (même si cela va considérablement augmenter le temps d'entrainement)
+
+observation -> encore de l'overfit ?
+
+
+Modif pour la prochaine update: Puisque nous n'avons plus que 2 classes ( sans la classe Question, alors passer sur de la biclassification, je ne sais plus comment ça s'appelle)
+
+# ajout de dropout dans le model
+hidden_dropout_prob = 0.5,
+attention_probs_dropout_prob = 0.5
